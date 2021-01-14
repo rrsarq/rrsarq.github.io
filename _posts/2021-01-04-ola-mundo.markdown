@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Olá mundo"
+date:   2021-01-04 04:59:37 -0300
+categories: jekyll update
+---
+Esse post serve como um "Olá mundo", e para testes de Git, Jekyll e etc.
+
+Aproveito para compartilhar aqui a Palavra de Deus:
+
+*“O SENHOR é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação e o meu alto refúgio.” Salmos 18:2 ARC95*
+

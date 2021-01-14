@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Sobre rrs.arq
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Engenheiro de Segurança do Trabalho com formação em Arquitetura e Urbanismo, ambas pela Universidade Federal do Rio Grande do Sul (UFRGS).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Nesse blog irei compartilhar materiais relacionados à programação, tecnologia e afins.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Para conhecer mais do meu trabalho acesse [rrs.arq.br](https://www.rrs.arq.br)
